@@ -25,3 +25,8 @@ puts "#{B}"
 C = yes_or_no.unshift(false, true)
 
 puts "#{C}"
+
+# Index positions represent the position of each element
+# in an array. The first position is 0. So in the array friends
+# "Sarah" is in the index position 0. Counting up from zero,
+# "Liz" is in index position 1.
