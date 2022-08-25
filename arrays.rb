@@ -30,3 +30,6 @@ puts "#{C}"
 # in an array. The first position is 0. So in the array friends
 # "Sarah" is in the index position 0. Counting up from zero,
 # "Liz" is in index position 1.
+
+# take() returns first elements of the array in front of the given elements
+# if I did friends.take("Cat"), it would return "Sarah" and "Liz"
